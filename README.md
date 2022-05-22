@@ -1,2 +1,2 @@
 # weather-app
-Creating a weather app with API
+Weather app using OpenWeatherMap API.
